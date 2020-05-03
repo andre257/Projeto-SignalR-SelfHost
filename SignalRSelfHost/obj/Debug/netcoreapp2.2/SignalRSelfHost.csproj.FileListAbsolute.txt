@@ -1,0 +1,8 @@
+C:\Users\André Luiz\source\repos\SignalRSelfHost\SignalRSelfHost\bin\Debug\netcoreapp2.2\SignalRSelfHost.deps.json
+C:\Users\André Luiz\source\repos\SignalRSelfHost\SignalRSelfHost\bin\Debug\netcoreapp2.2\SignalRSelfHost.runtimeconfig.json
+C:\Users\André Luiz\source\repos\SignalRSelfHost\SignalRSelfHost\bin\Debug\netcoreapp2.2\SignalRSelfHost.runtimeconfig.dev.json
+C:\Users\André Luiz\source\repos\SignalRSelfHost\SignalRSelfHost\bin\Debug\netcoreapp2.2\SignalRSelfHost.dll
+C:\Users\André Luiz\source\repos\SignalRSelfHost\SignalRSelfHost\obj\Debug\netcoreapp2.2\SignalRSelfHost.csproj.CoreCompileInputs.cache
+C:\Users\André Luiz\source\repos\SignalRSelfHost\SignalRSelfHost\obj\Debug\netcoreapp2.2\SignalRSelfHost.AssemblyInfoInputs.cache
+C:\Users\André Luiz\source\repos\SignalRSelfHost\SignalRSelfHost\obj\Debug\netcoreapp2.2\SignalRSelfHost.AssemblyInfo.cs
+C:\Users\André Luiz\source\repos\SignalRSelfHost\SignalRSelfHost\obj\Debug\netcoreapp2.2\SignalRSelfHost.csprojAssemblyReference.cache
